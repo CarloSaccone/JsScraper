@@ -12,3 +12,5 @@ The server should be able to read rulesets and scrape data using the given rules
 
 yarn install
 node server.js
+
+git push https://CarloSaccone@github.com/CarloSaccone/JsScraper.git
