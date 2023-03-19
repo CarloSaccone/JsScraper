@@ -9,3 +9,6 @@ The idea is to create an injectable script to enable a WYSIWYG ruleset creator t
 ## Server
 
 The server should be able to read rulesets and scrape data using the given rules
+
+yarn install
+node server.js
